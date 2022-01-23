@@ -1,0 +1,17 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://app.uniswap.org",
+  "icons": [
+    {
+      "src": "./images/App_Icon.svg",
+      "type": "image/svg",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "NFT管理后台",
+  "short_name": "NFT MANAGER",
+  "start_url": ".",
+  "theme_color": "#ff007a"
+}
